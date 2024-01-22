@@ -1,4 +1,4 @@
-## Hello World! (yes I put this, generic guy) 👋
+## Hello World! (yes I put this, very generic) 👋
 - 🏫 Student @ McMaster University | Faculty of Engineering
 - 🌱 Primarily working in Python, Java, HTML/CSS, Working on EconomyBot and Serial Communication
 - 🤖 Member of [MACRoboMaster](https://github.com/macrobomaster)'s Computer Vision Team
