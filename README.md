@@ -5,7 +5,7 @@
 - 🪓 [FRC 6854-Viking Robotics](https://github.com/FRC6854) Alumni
 - 💺 Chair for MACModelUN Legal Conference 2024
 
-# Robotics Projects
+### Robotics Projects
 [2023 Season: ChargedUp Robot Code](https://github.com/FRC6854/2023ChargedUpOfficial)
 
 [VIKING Common Library](https://github.com/FRC6854/VIKING)
