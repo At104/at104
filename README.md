@@ -11,4 +11,4 @@
 [VIKING Common Library](https://github.com/FRC6854/VIKING)
 
 ## My Github Stats 📈
-![Stats](https://github-readme-stats.vercel.app/api?username=At104&show_icons=true&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=At104)
+![Stats](https://github-readme-stats-sooty-phi-13.vercel.app/api?username=At104&show_icons=true&theme=monokai) ![Top Langs](https://github-readme-stats-sooty-phi-13.vercel.app/api/top-langs/?username=At104)
