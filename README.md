@@ -13,5 +13,8 @@
 ### Projects
 [EconomyBot](https://github.com/At104/EconomyBot) A discord bot that simulates an economy with server moderation, using Python & Javascript
 
+[MatrixMate](https://github.com/At104/MatrixMate) A matrix calculator developed for a course final project, using C & Bash
+
 ## My Github Stats 📈
-![Stats](https://github-readme-stats-sooty-phi-13.vercel.app/api?username=At104&show_icons=true&theme=monokai) ![Top Langs](https://github-readme-stats-sooty-phi-13.vercel.app/api/top-langs/?username=At104)
+![Stats](https://github-readme-stats.vercel.app/api?username=At104&show_icons=true&theme=monokai) <br/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=At104&layout=compact&show_icons=true&theme=monokai)
