@@ -2,9 +2,8 @@
 - 🏫 Software Engineering II @ McMaster University
 - 🌱 Primarily working in Python, Java, C, HTML/CSS
 - 🖥️ Web Developer at [iGEM McMaster](https://www.mcmaster-igem.ca)
-- 🤖 Member of [MACRoboMaster](https://github.com/macrobomaster)'s Computer Vision Team
-- 🪓 [FRC 6854-Viking Robotics](https://github.com/FRC6854) Alumni, [FRC 10554 VIPER](https://github.com/frc10554) Mentor
-- 💺 Chair for MACModelUN Legal Conference 2024
+- 📈 Incoming IT Integration Software Developer Analyst Co-op @ NBFC
+
 
 ### Robotics Projects
 [2023 Season: ChargedUp Robot Code](https://github.com/FRC6854/2023ChargedUpOfficial)
