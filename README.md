@@ -12,6 +12,9 @@
 [VIKING Common Library](https://github.com/FRC6854/VIKING)
 
 ### Projects
+
+[MinuteMaster](https://github.com/farazkabbo/Geesehacks2025) Web application to automate business meeting minutes with summarization
+
 [EconomyBot](https://github.com/At104/EconomyBot) A discord bot that simulates an economy with server moderation, using Python & Javascript
 
 [MatrixMate](https://github.com/At104/MatrixMate) A matrix calculator developed using C & Bash
