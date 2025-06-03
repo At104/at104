@@ -1,8 +1,8 @@
 ## Hello World!  👋
-- 🏫 Software Engineering II @ McMaster University
+- 📈 IT Integration Software Developer Analyst Co-op @ NBFC
+- 🏫 Software Engineering III @ McMaster University
 - 🌱 Primarily working in Python, Java, C, HTML/CSS
 - 🖥️ Web Developer at [iGEM McMaster](https://www.mcmaster-igem.ca)
-- 📈 Incoming IT Integration Software Developer Analyst Co-op @ NBFC
 - AWS Certified Cloud Practitioner
 
 
